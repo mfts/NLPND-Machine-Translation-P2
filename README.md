@@ -19,7 +19,7 @@ Please refer to the Udacity instructions for setting up a GPU instance for this 
 ### Install
 - Python 3
 - NumPy
-- TensorFlow 1.x
+- TensorFlow 2.x
 - Keras 2.x
 
 ## Submission
